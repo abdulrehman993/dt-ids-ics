@@ -1,0 +1,5 @@
+,model,train_s,train_cpu_s,mem_delta_MB,infer_ms_per_sample
+0,Baseline,0.002,0.0,0.0,0.0003
+1,LogReg,4.405,3.19,0.0,0.0048
+2,DecisionTree,0.045,0.07,0.0,0.0025
+3,RandomForest,1.057,1.03,0.0,0.0223

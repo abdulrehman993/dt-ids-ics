@@ -1,0 +1,4 @@
+,features,accuracy,macro_F1
+0,process_only,0.863,0.68
+1,process+control,0.86,0.804
+2,process+control+network,0.979,0.975
