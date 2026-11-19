@@ -3,7 +3,7 @@
 OS + AI/ML integrated assignment. A small digital-twin IDS (DT-IDS) for a tank-valve-bottle plant, based on
 Varghese et al., "Digital Twin-based Intrusion Detection for Industrial Control Systems", IEEE PerCom Workshops 2022.
 
-**Author:** Abdul Rehman | **Roll no.:** <add> | **Course:** Operating Systems + AI/ML
+**Author:** Abdul Rehman | **Roll no.:** <24fa-051-ce> | **Course:** Operating Systems + AI/ML
 
 ## What this project does
 - Simulates a filling plant (tank, valve, bottle) in Python, sampled every 0.5 s (3000 rows).
